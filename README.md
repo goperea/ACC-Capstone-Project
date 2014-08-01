@@ -2,7 +2,7 @@ ACC-Capstone-Project
 ====================
 Since I started working on the capstone project I've been:
 
-    Learning HTML, Bootstrap , CCS ,  JavaScript & Ajax.
+    Learning HTML, Bootstrap , CSS ,  JavaScript & Ajax.
     
     Deciding which project to develop and what container, DB and IDE to use.
         - Will work on the sample project.
@@ -51,7 +51,8 @@ Since I started working on the capstone project I've been:
         
         2.- Create a java object for accessing movie revie data.
         
-        3.- Update the home page to use Movie Review Mgr to display the name and image of a randomly.
+        3.- Update the home page to use Movie Review Mgr to display the name and image of a randomly
+            selected movie.
         
         4.- Create a details page for each review showing the full details.
         
