@@ -44,7 +44,8 @@ Since I started working on the capstone project I've been:
     
     Write and implement Sign in and Register servlets to be able to make reviews.
     
-    SO FAR THIS IS WHAT I'VE DONE JUST BY MYSELF WITHOUT ANY HELP, FOLLOWING I WILL LIST ALL THE OPTIONS THAT NEEDS TO      BE DONE TO FINISH THE PROJECT.
+    SO FAR THIS IS WHAT I'VE DONE JUST BY MYSELF WITHOUT ANY HELP.
+    FOLLOWING I WILL LIST ALL THE OPTIONS THAT NEEDS TO BE DONE TO FINISH THE PROJECT.
     
         1.- SQL script for creating the schema or a java class that creates the schema and data.
         
